@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body {
+  color: orange;
+}
+
+h1 {
+  color: black;
+}
+
+p.dotted {border-style: dotted;}
+
+
+</style>
+</head>
+<body>
+
+<h1>Trevor's Halloween Bash</h1>
+   <p class="dotted">It's Halloween Time
+   We are Having a Bash
+   Wear Your Best Costume
+   To Our Fun Monster Mash.</p>
+
+</body>
+
+<div>This element has a padding of 70px.</div>
+
+</body>
+<head>
+<title>Trevor's Halloween Bash</title>
+<style>
+body {background-color: orange; }
+</style>
+</head>
+
+</html>
+
+ <p><font size="4" font face="Arial" color="black">It's Halloween Time
+   We are Having a Bash
+   Wear Your Best Costume
+   To Our Fun Monster Mash!</font></p>
